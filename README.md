@@ -1,5 +1,5 @@
 # Resolucao_1INFOs_forControle
-Repositório com as soluções da [lista de repetições usando FOR](https://github.com/ldmfabio/1INFOs_forControle/tree/master/listaExercicios_01).
+Repositório com as soluções da [lista de repetições usando FOR](https://github.com/ldmfabio/1INFOs_forControle/tree/master/listaExercicios_01).  
 Aluno: João Vitor da Costa Graciano - 1info3
 
 Exercícios:
