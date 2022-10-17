@@ -1,0 +1,22 @@
+<meta charset="UTF-8">
+<script>
+    /*
+    PROBLEMA
+    Faça um programa que peça ao usuário para informar cinco números.
+    No final, apresente o maior número informado pelo usuário.
+    */
+    let maiorNumero = Number.NEGATIVE_INFINITY;;
+
+    //ENTRADA && PROCESSAMENTO
+	for (var i = 0; i < 5; i++) {
+        let entrada = parseFloat(prompt("Digite um número: "));
+
+        if (maiorNumero < entrada) {
+            maiorNumero = entrada;
+        }
+	}
+
+    //SAÍDA
+    document.write(`O maior número digitado foi: ${maiorNumero}.`);
+
+</script>
